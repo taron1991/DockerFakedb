@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: fakepostgres
+    password: fakewestside
+    url: jdbc:postgresql://localhost:5472/fakedb
+
